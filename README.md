@@ -24,3 +24,4 @@ python run.py
 
 - [x] download static images 下载静态图片
 - [x] multi-threading 多线程下载
+- [ ] break-point resume 断点续传
