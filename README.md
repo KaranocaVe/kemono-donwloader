@@ -1,5 +1,7 @@
 # kemono-donwloader
 
+Use this handy script to download images from [kemono.su](https://kemono.su/)~
+
 ## How to use  使用说明
 
 1. Download Edge webdriver from [here](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
@@ -20,5 +22,5 @@ python run.py
 
 ## Function 功能
 
-- [x] 下载纯静态图片页面
-- [x] 多线程下载
+- [x] download static images 下载静态图片
+- [x] multi-threading 多线程下载
